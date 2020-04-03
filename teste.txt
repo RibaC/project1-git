@@ -1,1 +1,5 @@
 Lista do atividades
+04/04/2020 - Analise de Dados
+05/04/2020 - Fundation
+05/04/2020 - Testes
+
